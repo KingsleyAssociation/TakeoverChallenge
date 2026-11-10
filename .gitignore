@@ -1,0 +1,2 @@
+# Keep personal Claude Code approvals out of version control
+**/.claude/settings.local.json
